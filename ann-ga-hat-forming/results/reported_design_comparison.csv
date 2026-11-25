@@ -1,0 +1,8 @@
+﻿output,target,baseline_prediction,springback_priority_prediction,unit,origin
+L1,18,17.7466,17.9293,mm,Original ANN-GA final presentation / audit report
+L2,14,14.6657,14.6512,mm,Original ANN-GA final presentation / audit report
+H,10,10.9302,10.9453,mm,Original ANN-GA final presentation / audit report
+Theta1_out,40,37.6964,37.9697,deg,Original ANN-GA final presentation / audit report
+Theta2_out,0,0.5379,0.1041,deg,Original ANN-GA final presentation / audit report
+R1,5.5,5.7886,5.7703,mm,Original ANN-GA final presentation / audit report
+R2,6,5.6874,5.6622,mm,Original ANN-GA final presentation / audit report
